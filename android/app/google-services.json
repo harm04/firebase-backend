@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354675023242",
+    "project_id": "applogin-f5f82",
+    "storage_bucket": "applogin-f5f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354675023242:android:a09cf5848e8efdffc73c73",
+        "android_client_info": {
+          "package_name": "com.techstepsservices.applogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3F7R5mSci9bEBv6MP-tWc3QA-oMMXd7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
